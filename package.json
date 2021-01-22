@@ -1,0 +1,22 @@
+{
+  "name": "react_pro_shop",
+  "version": "1.0.0",
+  "description": "MERN shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexangria1992/MERN-E_Commerce.git"
+  },
+  "author": "Alexandre Angrignon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexangria1992/MERN-E_Commerce/issues"
+  },
+  "homepage": "https://github.com/alexangria1992/MERN-E_Commerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
