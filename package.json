@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/alexangria1992/MERN-E_Commerce#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "express": "^4.17.1"
   },
   "devDependencies": {
